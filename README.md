@@ -13,7 +13,9 @@ Currently working with Splunk, ELK Stack, AWS, Azure. Comfortable with packet ca
 
 ---
 
-![Abhi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhi-singh2412&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
+![Abhi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhi-singh2412&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi-singh2412&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=8)
 
 ---
 
