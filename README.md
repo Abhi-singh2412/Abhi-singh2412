@@ -9,6 +9,8 @@ Currently working with Splunk, ELK Stack, AWS, Azure. Comfortable with packet ca
 - 🏆 Top 1% globally on TryHackMe
 - 🎓 B.Tech CS + Cyber Security & Digital Forensics — VIT Bhopal
 
+[![My Skills](https://skillicons.dev/icons?i=anaconda,arch,aws,azure,bash,bootstrap,cpp,css,debian,discord,docker,dynamodb,elasticsearch,express,figma,firebase,flask,gcp,git,gmail,heroku,html,java,js,kali,kubernetes,latex,linux,mongodb,mysql,nodejs,postgres,postman,powershell,pycharm,py,raspberrypi,react,regex,tailwind,ubuntu,vite,vscode,windows)](https://skillicons.dev)
+
 ---
 
 ![Abhi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhi-singh2412&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
