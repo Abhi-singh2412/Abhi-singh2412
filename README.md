@@ -17,7 +17,10 @@ Currently working with Splunk, ELK Stack, AWS, Azure. Comfortable with packet ca
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi-singh2412&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=8)
 
 ---
+## Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhi%20Singh-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/abhi-singh-9aaa59314)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%201%25-red?style=flat&logo=tryhackme)](https://tryhackme.com/p/ABhiSIngh)
-[![LeetCode](https://img.shields.io/badge/LeetCode-268%2B%20solved-orange?style=flat&logo=leetcode)](https://leetcode.com/Abhi_2302)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/abhi-singh-9aaa59314)
+&nbsp;
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/ABhiSIngh)
+&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Abhi_2302)
