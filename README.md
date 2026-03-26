@@ -5,6 +5,7 @@ Cybersecurity undergrad at VIT Bhopal. I focus on blue team work — threat dete
 Currently working with Splunk, ELK Stack, AWS, Azure. Comfortable with packet captures, Windows Event Logs, MITRE ATT&CK and much more. I write in Python and Bash when I need to automate something.
 
 - 🔍 Interests: SOC operations, malware analysis, threat hunting
+- 🌐 Portfolio: https://abhi-singh-portfolioo.netlify.app
 - 📜 Certified: ISC2 CC · Google · IBM Cybersecurity
 - 🏆 Top 1% globally on TryHackMe
 - 🎓 B.Tech CS + Cyber Security & Digital Forensics — VIT Bhopal
